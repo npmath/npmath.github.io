@@ -18,7 +18,7 @@ I will post links and other resources on this page.
 
 ```math
 // math block
-This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+\sqrt{\$4}
 ```
 
 #### Header 4
