@@ -10,9 +10,8 @@ I will post links and other resources on this page.
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> There are two spiritual dangers in not owning a farm. One is the danger of supposing that breakfast comes from the grocery, and the other that heat comes from the furnace.
+> ― Aldo Leopold, A Sand County Almanac
 
 ### Header 3
 
