@@ -17,7 +17,6 @@ I will post links and other resources on this page.
 ### Some Math
 
 ```math
-// math block
 \sqrt{\$4}
 ```
 
